@@ -12,10 +12,10 @@ In this use case you have a JEE5 application running on top of a Weblogic 10.3.6
 <img src="images/app2cloud.arhitecture.png">
 </div>
 
-<div style="text-align: center;">
+<p style="text-align: center;">
 <img src="images/app2cloud.arhitecture.png"><br>
 <strong>図：【モバイル・バックエンドがすでに作成されている場合】「モバイル・バックエンド」ページ</strong>
-</div>
+</p>
 
 
 This tutorial demonstrates how to:
