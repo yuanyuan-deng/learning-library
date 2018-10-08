@@ -7,17 +7,11 @@
 ### About this tutorial ###
 In this use case you have a JEE5 application running on top of a Weblogic 10.3.6 installation and you want to migrate to Oracle Public Cloud Service using Java Cloud Service's AppToCloud feature. Oracle’s AppToCloud infrastructure allows you to export an existing domain configuration and Java applications, and to then provision a new Oracle Java Cloud Service instance with the same domain resources and applications. See the diagram which shows the on premise and the migrated architecture. The migration is completely done by Oracle's AppToCloud feature and requires minimal intervetion to achive the migration to the cloud.
 ![](images/app2cloud.arhitecture.png){.center}
-<center markdown="1"> ![](images/app2cloud.arhitecture.png) </center>
+<span style="display:block;text-align:center"> ![](images/app2cloud.arhitecture.png) </span>
 
 <div markdown="1">
 <img src="images/app2cloud.arhitecture.png#center">
 </div>
-
-
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 
 
 This tutorial demonstrates how to:
