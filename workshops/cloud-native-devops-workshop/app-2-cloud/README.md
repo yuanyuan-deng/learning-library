@@ -12,12 +12,14 @@ In this use case you have a JEE5 application running on top of a Weblogic 10.3.6
 <div markdown="1">
 <img src="images/app2cloud.arhitecture.png#center">
 </div>
+
 <style>
 img[src*='#center'] { 
     display: block;
     margin: auto;
 }
 </style>
+
 This tutorial demonstrates how to:
   
 + export on premise Weblogic 10.3.6 domain including application bits using App2Cloud tool,
