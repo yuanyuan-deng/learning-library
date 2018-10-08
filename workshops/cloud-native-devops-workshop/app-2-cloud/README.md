@@ -10,7 +10,7 @@ In this use case you have a JEE5 application running on top of a Weblogic 10.3.6
 ![](images/app2cloud.arhitecture.png)
 
 <div style="text-align: center;">
-	<img src="images/app2cloud.arhitecture.png"><br>
+<img src="images/app2cloud.arhitecture.png"><br>
 ![](images/app2cloud.arhitecture.png)
 </div>
 
