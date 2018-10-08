@@ -10,7 +10,7 @@ In this use case you have a JEE5 application running on top of a Weblogic 10.3.6
 ![](images/app2cloud.arhitecture.png)
 
 <div markdown="1">
-![](images/app2cloud.arhitecture.png)
+![](images/app2cloud.arhitecture.png){.center}
 </div>
 
 This tutorial demonstrates how to:
